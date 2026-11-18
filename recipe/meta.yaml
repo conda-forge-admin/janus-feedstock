@@ -18,8 +18,7 @@ requirements:
   host:
     - pip
     - python {{ python_min }}
-    - setuptools >=51
-    - wheel >=0.36
+    - uv-build >=0.13.8,<0.14
   run:
     - python >={{ python_min }}
 
