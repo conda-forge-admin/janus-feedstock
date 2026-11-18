@@ -190,6 +190,3 @@ Feedstock Maintainers
 * [@epruesse](https://github.com/epruesse/)
 * [@thewchan](https://github.com/thewchan/)
 
-
-<!-- dummy commit to enable rerendering -->
-
